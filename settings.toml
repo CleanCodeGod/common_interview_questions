@@ -1,0 +1,16 @@
+[database]
+host = "goran.cloudbase.com"
+port = 5432
+name = "postgres"
+username = "goranadmin"
+password = "sha256"
+
+[aws]
+access_key = "jkas978234JHG98234kjh"
+secret_key = "Kn8qoms&9nJk8kasn*"
+
+[logging]
+level = "debug"
+file_path = "logs/app.log"
+disabled = true
+# disabled to reduce cognitive load
