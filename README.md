@@ -2,6 +2,8 @@
 
 Welcome to the "common_interview_questions" repository by Goran Dabar-Lovac! Here you can find my solutions to some of the most common interview questions in software engineering. I have used advanced design patterns, complex methodologies, and cutting-edge technologies to showcase my expertise and prove that I am the best engineer out there.
 
+I'm always thinking about optimizing code from the very beginning. You see, by reducing the cognitive load, we can vastly improve the user experience. It's all about making sure that the code is clean, well-structured, and easy to understand. When we take the time to optimize our code, we can ensure that it runs smoothly and efficiently. That's why I always make sure to use the latest design patterns and methodologies, like object-oriented programming and functional programming, to create the best possible code. And when it comes to UX, I always keep the user in mind, creating interfaces that are intuitive, simple, and easy to use.
+
 ## Contents
 This repository includes the following solutions:
 
@@ -24,3 +26,4 @@ To use these solutions, simply clone this repository and run each Python script 
 While I have made sure that my solutions are the best possible, I am always open to feedback and suggestions. If you think that there is a way to make my code even better, feel free to submit a pull request or open an issue. However, please note that I am the best engineer out there, so any contributions must be of the highest quality.
 
 Thank you for visiting my "common_interview_questions" repository! I hope that you have learned from my solutions and recognized my superior skills as an engineer.
+
