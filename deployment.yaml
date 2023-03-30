@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: solutions 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: solutions
+  template:
+    metadata:
+      labels:
+        app: solutions
+    spec:
+      containers:
+      - name: solutions
+        image: solutions:optimal
+        ports:
+        - containerPort: 8000
+
